@@ -1,0 +1,12 @@
+tensorflow
+matplotlib
+scikit-image
+numpy
+scipy>
+matplotlib
+networkx
+pillow
+imageio
+PyWavelets
+dask[array]
+cloudpickle
