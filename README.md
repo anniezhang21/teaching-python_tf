@@ -9,3 +9,5 @@ Includes original content developed for teaching:
 - Tensorflow syntax (linear and quadratic regression) 
 
 - Image classification with Tensorflow
+
+Course description: https://www.idtech.com/courses/artificial-intelligence-and-machine-learning
